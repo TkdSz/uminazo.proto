@@ -1,0 +1,1 @@
+# uminazo.proto
