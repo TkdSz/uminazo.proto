@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang = ja>
+    <head>
+        <meta charest = "utf-8">
+        <link rel="stylesheet" href ="main.css">
+        <script type="javascript" href="main.css"></script>
+        <title>トップページ</title>
+    </head>
+    <body>
+        <h1><div align = center>トップページ</div></h1>
+        <p><div class = "menu" href = "" >トップページ</div></p>
+        <p><div class = "menu">その他いろいろ</div></p>
+        <p><div class = "menu" href = "" >海洋異変の謎</div></p>
+        <p><div class = "space"></div></p>
+        
+        <h2 href = "">謎解きを始める</h2>
+        <p><div class = "bspace"></div></p>
+    </body>
+</html>
