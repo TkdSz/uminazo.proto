@@ -12,7 +12,7 @@
 }
 
 .box1{
-  align-items: right;
+  text-align: right;
   position: relative;
   background-color: aquamarine;
   width: 200px;
@@ -20,7 +20,7 @@
 }
 
 .box2{
-  align-items: right;
+  text-align: right;
   position: absolute;
   background-color: azure;
   width: 100px;
