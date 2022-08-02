@@ -4,29 +4,15 @@
 }
 
 .space{
-  margin-top: 20px;
+  margin-top: 50px;
 }
 
 .bspace{
-  margin-top: 150px;
+  margin-top: 1000px;
 }
 
-.box1{
-  text-align: right;
-  position: relative;
-  background-color: aquamarine;
-  width: 200px;
-  height: 150px;
-}
-
-.box2{
-  text-align: right;
-  position: absolute;
-  background-color: azure;
-  width: 100px;
-  height: 80ox;
-  top: 60px;
-  left: 50px;
+.mspace{
+  margin-top: 50000px;
 }
 
 .clear{
