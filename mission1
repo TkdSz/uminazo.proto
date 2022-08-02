@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang = ja>
+    <head>
+        <meta charest = "utf-8">
+        <link rel="stylesheet" href ="uminazo.css">
+        <script type="javascript" href="uminazo.css"></script>
+        <title>Mission1</title>
+    </head>
+    <body>
+        <h1><div align = center>Mission1</div></h1>
+        <p><div class = "space"></div></p>
+        <p>状況説明とミッションについての説明が入ります。</p>
+        <p><div class = "space"></div></p>
+        <p>ミッションの進め方の説明が入ります。</p>
+        <p><div class = "bspace"></div></p>
+        <p>謎解きの答えを入力</p> 
+        <p><input type = "text"></p>
+        <p><input type = "button" value = "送信する" onclick = "location.href ='' "></p>
+    </body>
+</html>
