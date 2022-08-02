@@ -11,3 +11,18 @@
   margin-top: 150px;
 }
 
+.box1{
+  position: relative;
+  background-color: aquamarine;
+  width: 200px;
+  height: 150px;
+}
+
+.box2{
+  position: absolute;
+  background-color: azure;
+  width: 100px;
+  height: 80ox;
+  top: 60px;
+  left: 50px;
+}
