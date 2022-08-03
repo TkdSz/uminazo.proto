@@ -26,3 +26,5 @@
 h1{
   border-bottom: double 5px aquamarine;
 }
+
+.resizeimage img { width: 100%; }
