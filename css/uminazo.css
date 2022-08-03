@@ -1,0 +1,28 @@
+.menu{
+  text-align: right;
+  font-size: 50%;
+}
+
+.space{
+  margin-top: 150px;
+}
+
+.red{
+  color: red;
+}
+
+.yellow{
+  color: goldenrod;
+}
+
+.bb{
+  background-color: blue;
+  color: white;
+  font-size: 12px;
+  width: 200px;
+  height: 60px;
+}
+
+h1{
+  border-bottom: double 5px aquamarine;
+}
